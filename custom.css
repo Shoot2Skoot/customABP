@@ -1,0 +1,9 @@
+.item-album-gallery {
+    height: auto;
+    width: 100%;
+}
+.item-album-gallery img {
+    position: relative;
+    height: auto;
+    width: 100%;
+}
