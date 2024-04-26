@@ -1,7 +1,16 @@
+/* ==UserStyle==
+@name         Custom Album Gallery Style
+@namespace    com.yourdomain.customcss
+@description  Styles for album galleries to ensure images are responsive and fill their containers.
+@version      1.0
+@license      MIT
+==/UserStyle== */
+
 .item-album-gallery {
     height: auto;
     width: 100%;
 }
+
 .item-album-gallery img {
     position: relative;
     height: auto;
