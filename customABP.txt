@@ -1,4 +1,4 @@
-[Adblock Plus 1.1]
+[Adblock Plus 2.0]
 ! Title: Custom Clickjack and Pop-up Blocker
 ! Description: A custom filter list to block known clickjack attempts and unwanted pop-ups.
 ! Version: 1
@@ -6,7 +6,7 @@
 ! Expires: 4 days (how often the list should be updated)
 
 ! Prevent potential clickjacking and pop-up triggers
-*1ijit*
-*youradexchange*
-*yandex.com/*
-*phkucgq.com/*
+||lijit.com^$third-party
+||yandex.com^$third-party
+||phkucgq.com^$third-party
+||youradexchange*/^$third-party
